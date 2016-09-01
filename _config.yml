@@ -1,0 +1,14 @@
+layout_spectrum: 0.29847568762488663
+typography_spectrum: 0.31944167357869446
+color:
+  brandStrength: 0.3597705268766731
+  lightness: 0.4970274814404547
+  saturation: 0.4513612696900964
+  rhythmicContrast: 0.06704157683998346
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Korero
