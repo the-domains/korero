@@ -1,3 +1,4 @@
+layout_spectrum: 0.29847568762488663
 typography_spectrum: 0.31944167357869446
 color:
   brandStrength: 0.3597705268766731
@@ -5,12 +6,9 @@ color:
   saturation: 0.4513612696900964
   rhythmicContrast: 0.06704157683998346
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.29847568762488663
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Korero
-title: 'Hi, how are you?'
-description: Korero - Conversational Interfaces for the Automation Age
